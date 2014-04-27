@@ -1,4 +1,4 @@
 OpenJKT
 =======
 
-submission for Jakarta's HackJak 2014 
+submission for Jakarta Open Data Challenge #HackJak 2014 
