@@ -1,0 +1,1002 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ca",
+				"category"
+			],
+			[
+				"page",
+				"page_num"
+			],
+			[
+				"fo",
+				"for	for …"
+			],
+			[
+				"cate",
+				"category_item_id"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"da",
+				"data"
+			],
+			[
+				"arra",
+				"array_to_send"
+			],
+			[
+				"end",
+				"endpoint"
+			],
+			[
+				"data",
+				"data_count"
+			],
+			[
+				"labe",
+				"labels_candidate"
+			],
+			[
+				"stat",
+				"statistic-canvas"
+			],
+			[
+				"ans",
+				"answerdata"
+			],
+			[
+				"que",
+				"question"
+			],
+			[
+				"candid",
+				"candidate_id"
+			],
+			[
+				"stati",
+				"statistic_data"
+			],
+			[
+				"sco",
+				"score_to_add"
+			],
+			[
+				"score",
+				"score_to_add"
+			],
+			[
+				"scor",
+				"score_choice"
+			],
+			[
+				"ba",
+				"baloonArray"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"array_p",
+				"array_pop"
+			],
+			[
+				"candi",
+				"candidate"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"ques",
+				"question_data"
+			],
+			[
+				"qu",
+				"question_data"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"bak",
+				"background-color"
+			],
+			[
+				"font",
+				"font-face"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"padd",
+				"padding-right"
+			],
+			[
+				"on",
+				"onAnswer"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"cl",
+				"onClick"
+			],
+			[
+				"answer",
+				"answer-button"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"in",
+				"inline"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"bord",
+				"border-radius"
+			],
+			[
+				"tex",
+				"text-decoration"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"quest",
+				"question_id"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "ipv4 : 192.168.0.78\n\nsubnet : 255.255.0.0\n\nrouter : 192.168.0.1\n\n\n\nSylviana Murni - Pariwisata DKI\n\n08161110808\n\n08111770808\n\n\nsylvianamurni@gmail.com\n\n\n\n\n\nAPI 			= 25%\nMobile 			= 20%\nFeature			= 15%\nDesign			= 15%\nFunctionality	= 15%\nCross-Cutting	= 10%\n\n\n\nbc12eb14",
+			"settings":
+			{
+				"buffer_size": 267,
+				"line_ending": "Unix",
+				"name": "ipv4 : 192.168.0.78"
+			}
+		},
+		{
+			"contents": "devstack\n\n\nJqueryMobile\nD3JS\nChartJS\nhighchart\n\n\nj.mp/hackjak",
+			"settings":
+			{
+				"buffer_size": 61,
+				"line_ending": "Unix",
+				"name": "devstack"
+			}
+		},
+		{
+			"contents": "\n\n\nAPBD Visualization\n\nMENU\n\n- Home\n-> Program      2hr\n	- Program1\n	- Program2\n	- Program3\n	- dst\n-> Urusan 		2hr\n	- Urusan1\n	- Urusan2\n	- Urusan3\n	- dst\n-> SKPD 		2hr\n	- SKPD1\n	- SKPD2\n	- SKPD3\n	- dst\n- About\n\n\n\nPAGES\n\n- Home\n- Category\n	- Chart based on Category Items ?\n	- different chart for each category ?\n	- Total Kegiatan (items)\n	- Daftar Category (ex : Daftar SKPD)\n- CategoryItem\n	- Chart based on CategoryItem Items ?\n	- Total items\n	- Total dana\n	- Total yang direalisasikan\n	- Daftar Category (ex : Daftar Kebudayaan)\n- DetailsItem\n	- Items Logo/Insignia\n	- SKPDNama: \"Sudin Koperasi, Usaha Mikro, Kecil dan Menengah, dan Perdagangan - JAKTIM\",\n	- Tahun : \"2013\",\n	- namaUrusan\": \"Koperasi dan Usaha Kecil Menengah\",\n	- namaProgram\": \"Program penerapan prinsip good governance dalam penyelenggaraan urusan Koperasi dan UKM\",\n	- noKegiatan\": \"1\",\n	- namaKegiatan\": \"Partisipasi Kegiatan Kewilayahan\",\n	- nilai\": \" 17,000,000 \",\n	- realisasi\": \" 2,252,048 \",\n    - persenRealisasi\": \"13.25%\",\n\n\nCategory\n\nCategoryItem\n\nItem\n\n\n\n\n\nUrusan->30\nItems-> estimated 1605.23 items per Urusan\nPage-> Can only show 250 entry max\n\n\nPic-> only show some SKPD , the rest use Jakarta Coat Of Arm\n\n\n\n\n\nTodo :\n\n- Category Design&Development		2 - 2.5 hr\n- Item Design&Development			2 - 2.5 hr\n- Checking & Deploying				1 hr\n\n\n\n\n\n",
+			"settings":
+			{
+				"buffer_size": 1324,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/routes.php",
+			"settings":
+			{
+				"buffer_size": 745,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/models/APBD.php",
+			"settings":
+			{
+				"buffer_size": 4418,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/controllers/CategoryController.php",
+			"settings":
+			{
+				"buffer_size": 1797,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/category/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 1727,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/views/category/list.blade.php",
+			"settings":
+			{
+				"buffer_size": 2930,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "app/views/layouts/main.blade.php",
+			"settings":
+			{
+				"buffer_size": 3819,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/cdagroup/sourcecode/jquerymobile/jquery.mobile-1.4.2/demos/filterable/index.html",
+			"settings":
+			{
+				"buffer_size": 51260,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Volumes/Seagate Expansion Drive/Data/Backup/BlackEarthData_backup/xampp2/htdocs/CobaBot/index.php",
+			"settings":
+			{
+				"buffer_size": 2927,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "/Users/cdagroup/sourcecode/jquerymobile/jquery.mobile-1.4.2/demos/button/index.html",
+			"settings":
+			{
+				"buffer_size": 42582,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/cdagroup/sourcecode/jquerymobile/jquery.mobile-1.4.2/demos/navigation/index.html",
+			"settings":
+			{
+				"buffer_size": 42263,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/cdagroup/sourcecode/jquerymobile/jquery.mobile-1.4.2/demos/navigation/demo.js",
+			"settings":
+			{
+				"buffer_size": 1012,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/views/home/index.blade.php",
+			"settings":
+			{
+				"buffer_size": 102,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 47.0,
+		"selected_items":
+		[
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Package Control: Add Repository"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/cdagroup/Site/personal/hackjak/app/controllers/CategoryController.php",
+		"/Users/cdagroup/Site/personal/hackjak/public/js/index.js",
+		"/Users/cdagroup/Site/personal/hackjak/app/controllers/HomeController.php",
+		"/Users/cdagroup/sourcecode/chartjs/knadh/samples/bar.html",
+		"/Users/cdagroup/Site/presidentquiz/app/controllers/StatisticController.php",
+		"/Users/cdagroup/sourcecode/chartjs/caphun/Chart.js",
+		"/Users/cdagroup/sourcecode/chartjs/caphun/samples/bar.html",
+		"/Users/cdagroup/sourcecode/chartjs/Chart.js/samples/bar.html",
+		"/Users/cdagroup/Site/presidentquiz/app/routes.php",
+		"/Users/cdagroup/Site/presidentquiz/app/controllers/BaseController.php",
+		"/Users/cdagroup/Site/personal/pilihpintar/app/views/layouts/main.blade.php",
+		"/Users/cdagroup/Site/personal/pilihpintar/app/views/suggestion/matching2.blade.php",
+		"/Users/cdagroup/Site/presidentquiz/app/controllers/admin/BaseController.php",
+		"/Users/cdagroup/Site/presidentquiz/app/controllers/admin/UsersController.php",
+		"/Users/cdagroup/Document/Project_PresidentQuiz/question.csv",
+		"/Users/cdagroup/Site/presidentquiz/app/controllers/QuestionController.php",
+		"/Users/cdagroup/Site/presidentquiz/app/models/Candidate.php",
+		"/Users/cdagroup/Site/presidentquiz/app/config/database.php",
+		"/Users/cdagroup/Site/personal/pilihpintar/app/views/suggestion/matching.blade.php",
+		"/Users/cdagroup/Site/personal/pilihpintar/app/controllers/SuggestionController.php",
+		"/Users/cdagroup/Site/presidentquiz/public/assets/css/animate.css",
+		"/Users/cdagroup/Site/presidentquiz/app/models/Question.php",
+		"/Users/cdagroup/Site/presidentquiz/app/controllers/ResultController.php",
+		"/Users/cdagroup/Site/presidentquiz/app/views/question/index.blade.php",
+		"/Users/cdagroup/Downloads/jquery-ui-1.10.4.custom/development-bundle/demos/slider/steps.html",
+		"/Users/cdagroup/Site/presidentquiz/public/css/main.css",
+		"/Users/cdagroup/Site/presidentquiz/public/css/jquery.ui.slider.css",
+		"/Users/cdagroup/Site/personal/pilihpintar/public/js/matching.js",
+		"/Users/cdagroup/Site/presidentquiz/public/index.php",
+		"/Users/cdagroup/Site/presidentquiz/public/css/reset.css",
+		"/Users/cdagroup/Site/pilihpintar/app/controllers/SuggestionController.php",
+		"/Users/cdagroup/Site/presidentquiz/app/models/User.php",
+		"/Users/cdagroup/Site/presidentquiz/app/models/Roles.php",
+		"/Users/cdagroup/Site/presidentquiz/app/lib/cokelatsoft/storage/repository/question/EloquentQuestionRepository.php",
+		"/Users/cdagroup/Site/presidentquiz/app/lib/cokelatsoft/storage/repository/question/QuestionRepository.php",
+		"/Users/cdagroup/Site/presidentquiz/app/models/Answer.php",
+		"/Users/cdagroup/Site/presidentquiz/app/lib/cokelatsoft/storage/StorageServiceProvider.php",
+		"/Volumes/Seagate Expansion Drive/Data/Backup/BlackEarthData_backup/xampp2/htdocs/pilihpintar/app/controllers/HomeController.php",
+		"/Users/cdagroup/Site/presidentquiz/app/views/home/index.blade.php",
+		"/Volumes/Seagate Expansion Drive/Data/Backup/BlackEarthData_backup/xampp2/htdocs/pilihpintar/app/views/layouts/main.blade.php",
+		"/Volumes/Seagate Expansion Drive/Data/Backup/BlackEarthData_backup/xampp2/htdocs/pilihpintar/app/controllers/BaseController.php",
+		"/Users/cdagroup/Site/presidentquiz/app/database/migrations/2014_03_30_122601_create-users-table.php",
+		"/Volumes/Seagate Expansion Drive/Data/Backup/BlackEarthData_backup/xampp2/htdocs/pilihpintar/app/controllers/admin/UsersController.php",
+		"/Users/cdagroup/Site/template/bootstrap/start.php",
+		"/Users/cdagroup/Site/laravel/composer.json"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"search",
+			"demos",
+			"1.4.2",
+			"},\n",
+			"with",
+			"db",
+			"question_id",
+			"question",
+			"question_id] => 7",
+			"question_id] =",
+			"value",
+			"result",
+			"yellow",
+			";\n",
+			"now()))",
+			"onnext",
+			"onnex",
+			"selectedItem",
+			"question_answers",
+			"msg",
+			"error",
+			"websoftsaas",
+			"roles",
+			"role",
+			"auth",
+			"tebakgol",
+			"tebakgol-db"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"now())",
+			"selectedAnswer",
+			"selectedItem"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 7,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 267,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								267,
+								259
+							]
+						],
+						"settings":
+						{
+							"auto_name": "ipv4 : 192.168.0.78",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"settings":
+					{
+						"buffer_size": 61,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								61,
+								49
+							]
+						],
+						"settings":
+						{
+							"auto_name": "devstack",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"settings":
+					{
+						"buffer_size": 1324,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1052,
+								1052
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 609.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "app/routes.php",
+					"settings":
+					{
+						"buffer_size": 745,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								744,
+								744
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "app/models/APBD.php",
+					"settings":
+					{
+						"buffer_size": 4418,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1823,
+								1823
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 512.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "app/controllers/CategoryController.php",
+					"settings":
+					{
+						"buffer_size": 1797,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1360,
+								1360
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 435.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "app/views/category/index.blade.php",
+					"settings":
+					{
+						"buffer_size": 1727,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								317,
+								317
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage"
+						},
+						"translation.x": 2.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "app/views/category/list.blade.php",
+					"settings":
+					{
+						"buffer_size": 2930,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1778,
+								1778
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 1.0,
+						"translation.y": 413.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "app/views/layouts/main.blade.php",
+					"settings":
+					{
+						"buffer_size": 3819,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2845,
+								2845
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 370.0,
+						"translation.y": 503.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 9,
+					"file": "/Users/cdagroup/sourcecode/jquerymobile/jquery.mobile-1.4.2/demos/filterable/index.html",
+					"settings":
+					{
+						"buffer_size": 51260,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4406,
+								4501
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 1491.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 10,
+					"file": "/Volumes/Seagate Expansion Drive/Data/Backup/BlackEarthData_backup/xampp2/htdocs/CobaBot/index.php",
+					"settings":
+					{
+						"buffer_size": 2927,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1357,
+								1357
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 11,
+					"file": "/Users/cdagroup/sourcecode/jquerymobile/jquery.mobile-1.4.2/demos/button/index.html",
+					"settings":
+					{
+						"buffer_size": 42582,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1799,
+								1583
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 12,
+					"file": "/Users/cdagroup/sourcecode/jquerymobile/jquery.mobile-1.4.2/demos/navigation/index.html",
+					"settings":
+					{
+						"buffer_size": 42263,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1288,
+								1288
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 2058.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 13,
+					"file": "/Users/cdagroup/sourcecode/jquerymobile/jquery.mobile-1.4.2/demos/navigation/demo.js",
+					"settings":
+					{
+						"buffer_size": 1012,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 14,
+					"file": "app/views/home/index.blade.php",
+					"settings":
+					{
+						"buffer_size": 102,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								51,
+								51
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"home",
+				"app/controllers/HomeController.php"
+			],
+			[
+				"main.",
+				"presidentquiz/app/views/layouts/main.blade.php"
+			],
+			[
+				"",
+				"presidentquiz/app/views/statistic/index.blade.php"
+			],
+			[
+				"route",
+				"presidentquiz/app/routes.php"
+			],
+			[
+				"ques",
+				"presidentquiz/app/controllers/QuestionController.php"
+			],
+			[
+				"question",
+				"presidentquiz/app/models/Question.php"
+			],
+			[
+				"animate",
+				"presidentquiz/public/assets/css/animate.css"
+			],
+			[
+				"index",
+				"presidentquiz/app/views/question/index.blade.php"
+			],
+			[
+				"res",
+				"presidentquiz/app/controllers/ResultController.php"
+			],
+			[
+				"sugge",
+				"pilihpintar/app/controllers/SuggestionController.php"
+			],
+			[
+				"resu",
+				"presidentquiz/app/controllers/ResultController.php"
+			],
+			[
+				"rout",
+				"presidentquiz/app/routes.php"
+			],
+			[
+				"mat",
+				"pilihpintar/public/js/matching.js"
+			],
+			[
+				"match",
+				"pilihpintar/app/views/suggestion/matching2.blade.php"
+			],
+			[
+				"index.blade",
+				"presidentquiz/app/views/home/index.blade.php"
+			],
+			[
+				"main.blade",
+				"presidentquiz/app/views/layouts/main.blade.php"
+			],
+			[
+				"matchin",
+				"pilihpintar/app/views/suggestion/matching2.blade.php"
+			],
+			[
+				"sugges",
+				"pilihpintar/app/views/suggestion/matching2.blade.php"
+			],
+			[
+				"main.bla",
+				"pilihpintar/app/views/layouts/main.blade.php"
+			],
+			[
+				"sugg",
+				"pilihpintar/app/controllers/SuggestionController.php"
+			],
+			[
+				"databas",
+				"app/config/database.php"
+			],
+			[
+				"databa",
+				"app/config/database.php"
+			],
+			[
+				"note",
+				"app/models/Note.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 158.0,
+	"status_bar_visible": true
+}

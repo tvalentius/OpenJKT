@@ -1,0 +1,26 @@
++- User
++- Roles
+
+- Question
+	- Id
+	- Title
+	- Type
+	- Special/Twist
+- Option
+	- Id
+	- QuestionId
+	- Title
+	- Value
+- Candidate
+	- Id
+	- Name
+	- Description
+- CandidateQuestion
+	- Id
+	- CandidateId
+	- QuestionId
+	- Value
+- Entry
+	- Id
+	- CandidateId
+	- QuestionAnswerString

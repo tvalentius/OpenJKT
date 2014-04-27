@@ -1,0 +1,526 @@
+/***************************
+* main.css
+*
+* Main stylesheet for the site
+****************************/
+
+
+
+/*
+* FONTS
+*/
+@font-face {
+  font-family: PilihPresiden;
+  src: url('../assets/fonts/SWZ921N.TTF');
+}
+
+@font-face {
+  font-family: "Myriad-Pro";  
+  src: url(http://www.anaveer.in/honda/font/MYRIADPRO-REGULAR.OTF) format("truetype");
+}
+
+/*
+* GLOBAL
+*/
+
+body {
+  font-size: 27px;
+  font-family: PilihPresiden;
+  background-color: #262626;
+}
+
+/***/
+
+.content-main {
+  background-color: #e70000;
+  background-image:url('../assets/img/presidentquiz/Background.png');
+  background-repeat:no-repeat;
+  background-size: 100%;
+  background-position:0px 300px;
+
+  position: relative;
+
+  margin: 0 auto;
+
+  overflow: hidden;
+
+
+  width: 1024px;
+  height: 768px;
+}
+
+.background-white {
+  background-color: #fff;
+
+  margin: 0 auto;
+
+  position: absolute;
+
+  top:460px;
+  left: 0px;
+
+  width: 100%;
+  height: 400px;
+}
+
+.yellow-button {
+  background-image:url('../assets/img/presidentquiz/button_yellow.png');
+  background-size: 100%;
+  background-repeat:no-repeat;
+
+  position: relative;
+  cursor: pointer;
+
+  width: 195px;
+  height: 72px;
+}
+
+/*
+Home
+*/
+
+.home-banner {
+  margin: 0 auto;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.mulai-button {
+  margin: 0 auto;
+  font-size: 50px;
+  text-align: center;
+  cursor: pointer;
+  text-decoration: none;
+
+}
+
+.mulai-button a:hover,.mulai-button  a:visited,.mulai-button  a:link,.mulai-button  a:active
+{
+    text-decoration: none;
+}
+
+.mulai-button a {
+  top: 10px;
+  position: relative;
+
+  text-decoration: none;
+  color: #000;
+}
+
+.background-siluet {
+  top:590px;
+  position: absolute;
+}
+
+.background-heads {
+  top:600px;
+  position: absolute;
+}
+
+.home-baloon-words {
+  position: relative;
+}
+
+.baloon {
+  position: absolute;
+  background-image:url('../assets/img/presidentquiz/word-baloon.png');
+  background-size: 100%;
+  background-repeat:no-repeat;
+  width:152px;
+  height:171px;
+  text-align: center;
+}
+
+.baloon > .word {
+  position: absolute;
+  width: 100px;
+  height: 100px;
+
+  top: 30px;
+  left: 30px;
+}
+
+#soeharto {
+  top: 0px;
+  left: 126px;
+}
+
+#gusdur {
+  top: -17px;
+left: 436px;
+}
+
+#prabowo {
+  top: -14px;
+left: 733px;
+}
+
+#rhoma {
+  top: 0px;
+left: 893px;
+}
+
+/*
+Question
+*/
+
+.question-banner {
+  margin: 0 auto;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.question-container {
+  color: #fff;
+
+  position: relative;
+
+  margin: 0 auto;
+  margin-top: 20px;
+  text-align: center;
+
+  width: 775px;
+  height: 360px;
+
+  
+}
+
+.question-container-background {
+  background-color: #000;
+  opacity: 0.8;
+
+  position: absolute;
+
+  width: 100%;
+  height: 100%;
+
+  border-radius: 10px;
+}
+
+.question-content {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+.question-content .question {
+  position: relative;
+  margin: 0 auto;
+  top: 20px;
+  text-align: center;
+  font-size: 48px;
+
+  width: 758px;
+  height: 120px;
+}
+
+.answer {
+  position:relative;
+
+  width: 100%;
+  margin-top: 120px;
+  text-align: center;
+  list-style-type: none;
+}
+
+#answer-list {
+  margin: 0 auto;
+  width: 100%;
+  text-align: center;
+  float: left;
+
+}
+
+.answer .answer-button {
+  float: left;
+  margin: 0px 10px 0px 10px;
+}
+
+.answer .answer-button-on {
+  float: left;
+  display:none;
+  margin: 0px 10px 0px 10px;
+}
+
+.answer li {
+  margin: 0px 20px 0px 20px;
+  display: inline-block;
+}
+
+.answer-ul-slider {
+  top: 10px;
+  position: relative;
+}
+
+
+.answer li p {
+  font-size: 48px;
+  float: left;
+}
+
+.next-button {
+  position: relative;
+  margin: 0 auto;
+  top: 35px;
+  font-size: 50px;
+  text-align: center;
+  cursor: pointer;
+  text-decoration: none;
+  display: none;
+}
+
+.next-button img {
+  display: none;
+  text-align: center;
+}
+
+.next-button a {
+  
+  position: relative;
+  top:10px;
+  text-decoration: none;
+  color: #000;
+}
+
+#slider{
+  width: 600px;
+  margin: 0 auto;
+  margin-top: -40px;
+}
+
+.ui-slider-handle {
+  
+}
+
+.ui-slider-horizontal .ui-slider-handle {
+  background-image:url('../assets/img/presidentquiz/slider_button.png') ;
+  background: white url('../assets/img/presidentquiz/slider-button.png') no-repeat scroll 50% 50% !important;
+}
+
+.ui-corner-all {
+  
+  border-bottom-left-radius: 24px !important;
+  border-bottom-right-radius: 24px !important;
+  border-top-left-radius: 24px !important;
+  border-top-right-radius: 24px !important;
+  
+}
+
+/*
+Result
+*/
+
+.result-banner {
+  position: absolute;
+  right: 80px;
+  top: 25px;
+  
+} 
+
+.result-pic {
+
+  width: 475px;
+  height: 625px;
+
+  
+  /* h:625 w:475 */
+
+  position: absolute;
+  top: 80px;
+  left: 30px;  
+}
+
+.result-detail {
+  position: relative;
+  overflow: hidden;
+
+  width: 615px;
+  height: 407px;
+
+  color: #fff;
+
+  float: right;
+
+  top: 230px;
+  right: 0px;
+
+  -webkit-border-radius: 350px 0px 0px 350px;
+  border-radius: 350px 0px 0px 350px;
+}
+
+.detail-bg-upper{
+
+  height: 153px;
+  width: 100%;
+  position: absolute;
+
+  opacity: 0.4;
+  background-color: #000;
+}
+
+.detail-bg-lower{
+  
+  height: 257px;
+  width: 100%;
+  top:153px;
+  position: absolute;
+
+  opacity: 0.8;
+  background-color: #000;
+}
+
+.result-detail .detail-title {
+  position: absolute;
+
+  top:30px;
+  right: 0px;
+
+  text-align: center;
+  width:535px;
+  height:120px;
+
+
+}
+
+.detail-title h1 {
+  font-size: 80px
+}
+
+.result-detail > p {
+  position: absolute;
+
+  font-family: 'PT Sans Narrow', 'sans-serif';
+  font-size: 25px;
+  text-align: center;
+
+  width: 400px;
+
+
+
+  top:180px;
+  right: 60px;
+}
+
+.result-pic img {
+  width: 100%;
+}
+
+.result-detail .yellow-button {
+  color: #000;
+  position: relative;
+
+  float: left;
+
+  width: 145px;
+  height:55px;
+
+  margin: 0px 5px 0px 5px;
+
+  top: 316px;
+  left: 126px;
+
+  
+}
+
+.result-detail .yellow-button p {
+    position: relative;
+
+    top: 10px;
+    text-align: center;
+    width: 100%;
+    right: 0px;
+
+    font-size: 30px;
+
+    font-family: PilihPresiden;
+  }
+
+  .result-detail .yellow-button a {
+
+    position: relative;
+
+    top: 10px;
+    text-align: center;
+    width: 100%;
+    right: 0px;
+    text-decoration: none;
+    color: #000;
+
+    font-size: 30px;
+
+    font-family: PilihPresiden;
+  }
+
+/* Statistic */
+
+.statistic-banner {
+  position: absolute;
+  right: 80px;
+  top: 25px;
+  
+} 
+
+.statistic-container {
+  color: #fff;
+
+  position: relative;
+
+  margin: 0 auto;
+  margin-top: 20px;
+  text-align: center;
+
+  width: 940px;
+  height: 540px;
+
+  
+}
+
+.statistic-container-background {
+  background-color: #000;
+  opacity: 0.8;
+
+  position: absolute;
+
+  width: 100%;
+  height: 100%;
+
+  border-radius: 10px;
+}
+
+.statistic-content {
+  position: relative;
+  display: block;
+  width: 100%;
+  height: 100%;
+}
+
+#statistic-home-button {
+  position: absolute;
+  width: 155px;
+  right: 31px;
+  top: 661px;
+}
+
+#statistic-home-button p{
+    position: relative;
+    
+    top: 10px;
+    text-align: center;
+    width: 100%;
+    right: 0px;
+    text-decoration: none;
+    color: #000;
+
+    font-size: 30px;
+
+    font-family: PilihPresiden;
+}
+
+.statistic-canvas {
+  
+  width: 800px;
+  height: 365px;
+  top: 140px;
+  position: relative;
+}
