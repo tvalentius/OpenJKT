@@ -15,4 +15,9 @@ List of Library & API :
 
 
 
+Link :
+
+http://www.hivos.org/news/jakarta-open-data-challenge-hackjak
+http://www.seatti.org/index.php/news-and-evens-3/120-jakarta-open-data-challenge-hackjak-2.html
+
 
