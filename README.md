@@ -4,7 +4,7 @@ OpenJKT
 submission for Jakarta Open Data Challenge #HackJak 2014 
 
 
-Demo : openjkt.cokelatsoft.com/public
+Demo : http://openjkt.cokelatsoft.com/public/
 
 
 List of Library & API :
